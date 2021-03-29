@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="127087" started-at="2021-03-29T14:06:12 IST" finished-at="2021-03-29T14:08:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="127087" started-at="2021-03-29T14:06:12 IST" finished-at="2021-03-29T14:08:19 IST">
+      <class name="com.OrangeHRM.TestScripts.TestScriptNg">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.OrangeHRM.TestScripts.TestScriptNg@29b5cd00]" name="openBrowser" is-config="true" duration-ms="10422" started-at="2021-03-29T14:06:12 IST" finished-at="2021-03-29T14:06:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.OrangeHRM.TestScripts.TestScriptNg@29b5cd00]" name="loginApp" is-config="true" duration-ms="97330" started-at="2021-03-29T14:06:23 IST" finished-at="2021-03-29T14:08:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="runTest()[pri:0, instance:com.OrangeHRM.TestScripts.TestScriptNg@29b5cd00]" name="runTest" duration-ms="11143" started-at="2021-03-29T14:08:00 IST" finished-at="2021-03-29T14:08:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:com.OrangeHRM.TestScripts.TestScriptNg@29b5cd00]" name="logoutApp" is-config="true" duration-ms="5949" started-at="2021-03-29T14:08:11 IST" finished-at="2021-03-29T14:08:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.OrangeHRM.TestScripts.TestScriptNg@29b5cd00]" name="closeBrowser" is-config="true" duration-ms="2162" started-at="2021-03-29T14:08:17 IST" finished-at="2021-03-29T14:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.OrangeHRM.TestScripts.TestScriptNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
